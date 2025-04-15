@@ -292,3 +292,7 @@
 .social_midia a {
   text-decoration: none;
 }
+
+.social_midia .btn_curriculo{
+  padding-left: 12px;
+}
